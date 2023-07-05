@@ -2,7 +2,7 @@
 
 
 
-# Website with technologies class JS
+# Website with technologies Object-oriented programming
 
 
 ## ⚙ Technologies
