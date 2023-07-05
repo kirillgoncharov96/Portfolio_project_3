@@ -1,4 +1,4 @@
-<img align="left" src="dist/assets/img/gift-bg.jpg" atl="preview"/>
+<img align="left" src="dist/assets/img/mainbg.jpg" atl="preview"/>
 
 
 
