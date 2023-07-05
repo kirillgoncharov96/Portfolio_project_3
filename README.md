@@ -2,7 +2,7 @@
 
 
 
-# Website with technologies Object-oriented programming
+# Website with technologies: "Object-oriented programming"
 
 
 ## ⚙ Technologies
