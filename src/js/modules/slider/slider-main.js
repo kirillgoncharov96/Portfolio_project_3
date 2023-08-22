@@ -27,7 +27,7 @@ export default class MainSlider extends Slider {
             }
         }catch(e){}
 
-        this.slides.forEach(slide => {
+        Array.from(this.slides).forEach(slide => {
             slide.style.display = 'none';
             slide.classList.remove('animated', 'fadeInDown');
         });
